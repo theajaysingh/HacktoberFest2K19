@@ -1,6 +1,5 @@
 //Program to calculate length of longest increasing subsequence in an array
 // in O(n log n)
-// tested on : https://cses.fi/problemset/task/1145/
 
 #include <bits/stdc++.h>
 
